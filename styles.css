@@ -21,6 +21,7 @@ body, a:link, a:visited, a:active{
   background-color: #777;
 }
 .dancer{
+  background-size: 1000px;
   border:10px solid red;
   border-radius:10px;
   position:absolute;

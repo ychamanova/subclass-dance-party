@@ -24,4 +24,8 @@ $(document).ready(function() {
     );
     $('body').append(dancer.$node);
   });
+
+  $(".lineUpButton").click(function(){
+    $(".dancer").toggleClass("lineUp");
+  });
 });
